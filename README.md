@@ -1,7 +1,7 @@
 ### Olá visitante! 😄
 
-- 🔭 Hoje eu trabalho com Front e Back-end
-- 🌱 Estudando sobre Laravel, jQuery, Flutter etc
+- 🔭 Hoje eu trabalho com Desenvolvimento Web e Mobile
+- 🌱 Estudando Flutter.
 - ✉️ Contato comigo: isac_contest@hotmail.com
 - 💬 Me pergunte alguma coisa
 - ⚡ Apaixonado pela tecnologia
