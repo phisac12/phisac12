@@ -1,9 +1,5 @@
 ### Olá visitante! 😄
 
-- 🔭 Hoje eu trabalho com desenvolvimento Mobile
-- 🧑‍💻 Trabalhando com Flutter.
-- ✉️ Contato comigo: isac_contest@hotmail.com
-- 💬 Me pergunte alguma coisa
 - ⚡ Apaixonado pela tecnologia
 <hr>
 <div align="center">
