@@ -1,6 +1,4 @@
-### Olá visitante! 😄
 
-- ⚡ Apaixonado pela tecnologia
 <hr>
 <div align="center">
   <a href="https://github.com/phisac12">
